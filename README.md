@@ -1,5 +1,11 @@
 # apollo
 
+## 安装
+
+```
+composer require easyswoole/apollo
+```
+
 ## 使用
 
 ```php
